@@ -2,7 +2,7 @@
 ST Nr: ST10495452
 Name: Mokete Mantjane
 
-Git link:
+Git link: https://github.com/Gadaffi-24/MAST5112POE-PART2.git
 Youtube link:
 
 🍽️ Menu Maestro: Chef's Menu Management App
@@ -59,5 +59,8 @@ FilterScreen: This screen collects the user's selection of active Course filters
 Return Data: Upon hitting 'Apply', the selected filters are passed back to the Home screen's route.params as an array of strings (activeFilters).
 
 Filtering Logic: The HomeScreen uses the received activeFilters state to create a filteredMenuItems list. If activeFilters is empty, all menu items are shown; otherwise, the list is filtered to include only items matching the selected courses. The FlatList then renders this filtered list.
+
+# ScreenShots:
+
 
 :copyright: Mokete.inc 
