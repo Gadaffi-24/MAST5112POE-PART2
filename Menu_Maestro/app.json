@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "Menu_Maestro",
+    "slug": "Menu_Maestro",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./logo.jpg",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./logo.jpg",
+        "backgroundColor": "#01e6ff"
+      },
+      "edgeToEdgeEnabled": true,
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "favicon": "./logo.jpg"
+    }
+  }
+}
